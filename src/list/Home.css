@@ -1,0 +1,28 @@
+.araujo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(32, 207, 75);
+    width: 100%;
+    height: 100vh;
+}
+
+.afazeres-lista{
+    width: 400px;
+    height: 400px;
+    background-color: white;
+}
+
+.elementos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.pesquisar{
+    height: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 70%;
+}
